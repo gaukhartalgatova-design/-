@@ -1,0 +1,6 @@
+{
+  "name": "Биология: Углеводы — Study Guide",
+  "description": "Красочный визуальный учебный гид по свойствам, функциям и классификации углеводов, редуцирующим и нередуцирующим сахарам.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
